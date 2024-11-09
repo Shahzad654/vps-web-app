@@ -1,0 +1,25 @@
+#root {
+  --h1-font-size: 2.5rem;
+  --h2-font-size: 2rem;
+  --h3-font-size: 1.75rem;
+  --h4-font-size: 1.5rem;
+  --h5-font-size: 1.25rem;
+  --h6-font-size: 1.1rem;
+  --p-font-size: 1rem;
+
+  --l-heading: 2.5rem;
+  --m-heading: 2rem;
+
+  --l-radius: 20px;
+  --m-radius:15px;
+  --s-radius: 10px;
+
+  --bg-color: red;
+
+}
+
+
+h1{
+  font-size: var(--l-heading);
+}
+
